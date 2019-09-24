@@ -82,3 +82,6 @@ To start the instalation of the image will be made using the following steps:
 ```
 Command docker build -i dockerfile
 ```
+
+
+### Adding Jenkins
